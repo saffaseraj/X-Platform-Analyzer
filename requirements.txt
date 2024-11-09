@@ -1,0 +1,8 @@
+tweepy
+cryptography
+matplotlib
+networkx
+pandas
+scikit-learn
+transformers
+nltk
